@@ -1,21 +1,21 @@
 <h1 align="center">Yo fellow coders, I'm Ammar Low</h1>
 <h3 align="center">Love coding and gaming 🎮</h3>
 
-- 🤓 Learning these right now: 
+## 🤓 Learning these right now: 
 - .NET,
 - React.js, 
 - Flutter, 
 - NEXT.js
 
-- ⚡ Talk to me about: 
+## ⚡ Talk to me about: 
 - Vue
 - Tailwind
 - Bootstrap
 - Liquid.JSON
 
-- 💌 Contact me at **ammarlow.work@gmail.com**
+## 💌 Contact me at **ammarlow.work@gmail.com**
 
-- 💀 I got a joke 
+## 💀 I got a joke 
 - Knock knock. 
 - Who's there? 
 - Nobody. 
