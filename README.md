@@ -1,7 +1,7 @@
 <h1 align="center">Yo fellow coders, I'm Ammar Low</h1>
 <h3 align="center">Love coding and gaming 🎮</h3>
 <br>
-<img style="text-align: center" src="https://thumbs.gfycat.com/EnormousWarlikeIndianrockpython-size_restricted.gif" width="400"/>
+<img style="margin-left: auto; margin-right: auto" src="https://thumbs.gfycat.com/EnormousWarlikeIndianrockpython-size_restricted.gif" width="500"/>
 
 ## 🤓 Learning these right now: 
 - .NET,
