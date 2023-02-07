@@ -1,7 +1,7 @@
 <h1 align="center">Yo fellow coders, I'm Ammar Low</h1>
 <h3 align="center">Love coding and gaming 🎮</h3>
 <br>
-<img align="center" src="https://img.wattpad.com/527509405a67af0f808eed941a169ae2851dc636/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f776174747061642d6d656469612d736572766963652f53746f7279496d6167652f4d68796643466e584e6b51494f513d3d2d3233363439313334322e313433663239386263353639396638302e676966](https://media.tenor.com/sziMirCbu44AAAAM/gamer-insomnia.gif" width="100"/>
+<img align="center" src="[https://img.wattpad.com/527509405a67af0f808eed941a169ae2851dc636/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f776174747061642d6d656469612d736572766963652f53746f7279496d6167652f4d68796643466e584e6b51494f513d3d2d3233363439313334322e313433663239386263353639396638302e676966](https://media.tenor.com/sziMirCbu44AAAAM/gamer-insomnia.gif](https://thumbs.gfycat.com/EnormousWarlikeIndianrockpython-size_restricted.gif)" width="100"/>
 
 ## 🤓 Learning these right now: 
 - .NET,
